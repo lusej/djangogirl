@@ -1,0 +1,21 @@
+{% extends 'blog/base.html' %}
+<head>
+    <style>
+         *{margin:0; padding:0}
+		.page-header{
+			position:fixed; width:100%;height:auto; background-color:transparent; overflow-y:auto;min-height: 100px;line-height: 60px;}
+    </style>
+</head>
+    {% block content %}
+         <div class="page-header">
+               {% if user.is_authenticated %}
+                <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
+                {% endif %}
+                <h1><a href="/">LongLong Girls Blog</a></h1>
+           </div>
+        <h1>New post</h1>
+        <form method="POST" class="post-form">{% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit" class="save btn btn-default">Save</button>
+        </form>
+    {% endblock %}
