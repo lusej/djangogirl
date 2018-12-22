@@ -151,18 +151,6 @@
             <path>
               <item name="djangogirl" type="b2602c69:ProjectViewProjectNode" />
               <item name="djangogirl" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangogirl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="djangogirl" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangogirl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="djangogirl" type="462c0819:PsiDirectoryNode" />
               <item name="–no-site-packages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -238,12 +226,12 @@
       <workItem from="1545268043172" duration="19920000" />
       <workItem from="1545355257459" duration="21852000" />
       <workItem from="1545439951702" duration="7546000" />
-      <workItem from="1545457369336" duration="500000" />
+      <workItem from="1545457369336" duration="1318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60628000" />
+    <option name="totallyTimeSpent" value="61446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -261,8 +249,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.3295082" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.32786885" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49848714" visible="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50226927" side_tool="true" weight="0.32786885" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4977307" visible="true" weight="0.32786885" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
       <window_info anchor="bottom" id="TypeScript" order="13" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
